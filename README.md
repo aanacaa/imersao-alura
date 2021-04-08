@@ -1,4 +1,4 @@
-# imersao-alura
+# Imersão de dados Alura
 
 Atividades das aulas Imersão Dados
 
